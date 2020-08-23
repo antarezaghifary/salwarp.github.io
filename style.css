@@ -6,11 +6,21 @@ body{
 	margin-bottom: 120px; 
 	margin-top: 30px;
 }
+.jumbotron{
+	height: 550px;
+	background-image: url("market.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-color: white;
+}
 .jumbotron img{
 	width: 200px;
+	height: 200px;
 	border: 5px solid #666;
 }
-
+.jumbotron button{
+	height: 50px;
+}
 hr{
 	width:250px;
 	border-top: 4px solid #666;
@@ -19,8 +29,18 @@ hr{
 section{
 	min-height: 600px;
 }
-
-.portofolio{
+.about{
+	height: 750px;
+}
+}
+.about img{
+	width: 420px;
+	height: 280px;
+}
+.Klasifikasi2{
+	background-color: #eee;
+}
+.Klasifikasi3{
 	background-color: #eee;
 }
 
@@ -44,5 +64,8 @@ footer p{
 footer p i{
 	color: salmon;
 }
-
+.inipesan img{
+	width: 130%;
+	height: 130%;
+}
 
